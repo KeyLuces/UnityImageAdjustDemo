@@ -1,0 +1,16 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Editor/test.uss?fileID=7433441132597879392&amp;guid=ef53aa0e6db954c4c8b8b3d20332f563&amp;type=3#test" />
+    <ui:GroupBox text="属性编辑" focusable="false" style="align-self: flex-end; width: 233px; height: 265px; transform-origin: center;">
+        <ui:Slider picking-mode="Ignore" label="Slider" value="42" high-value="100" name="Slider" style="width: 224px; align-items: center; justify-content: space-between; align-self: flex-end;" />
+        <ui:Slider picking-mode="Ignore" label="Slider" value="42" high-value="100" name="Slider" style="width: 224px; align-items: center; justify-content: flex-end; align-self: flex-end; flex-direction: row;" />
+        <ui:Slider picking-mode="Ignore" label="Slider" value="42" high-value="100" name="Slider" style="width: 224px; align-items: center; justify-content: flex-end; align-self: flex-end; flex-direction: row;" />
+        <ui:Slider picking-mode="Ignore" label="Slider" value="42" high-value="100" name="Slider" style="width: 224px; align-items: center; justify-content: flex-end; align-self: flex-end; flex-direction: row;" />
+        <ui:Slider picking-mode="Ignore" label="Slider" value="42" high-value="100" name="Slider" style="width: 224px; align-items: center; justify-content: flex-end; align-self: flex-end; flex-direction: row;" />
+        <ui:Slider picking-mode="Ignore" label="Slider" value="42" high-value="100" name="Slider" style="width: 224px; align-items: center; justify-content: flex-end; align-self: flex-end; flex-direction: row;" />
+        <ui:Slider picking-mode="Ignore" label="Slider" value="42" high-value="100" name="Slider" style="width: 224px; align-items: center; justify-content: flex-end; align-self: flex-end; flex-direction: row;" />
+        <ui:Slider picking-mode="Ignore" label="Slider" value="42" high-value="100" name="Slider" style="width: 224px; align-items: center; justify-content: flex-end; align-self: flex-end; flex-direction: row;" />
+        <ui:Slider picking-mode="Ignore" label="Slider" value="42" high-value="100" name="Slider" style="width: 224px; align-items: center; justify-content: flex-end; align-self: flex-end; flex-direction: row;" />
+        <ui:Slider picking-mode="Ignore" label="Slider" value="42" high-value="100" name="Slider" style="width: 224px; align-items: center; justify-content: flex-end; align-self: flex-end; flex-direction: row;" />
+        <ui:Slider picking-mode="Ignore" label="Slider" value="42" high-value="100" name="Slider" style="width: 224px; align-items: center; justify-content: flex-end; align-self: flex-end; flex-direction: row;" />
+    </ui:GroupBox>
+</ui:UXML>
